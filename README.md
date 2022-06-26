@@ -1,2 +1,2 @@
 # EDA-on-play-store-apps-data
-Analysing 6app dataset and reviews dataset
+Analysing Play store  app dataset and reviews dataset
